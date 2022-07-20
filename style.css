@@ -1,0 +1,61 @@
+:root{
+    font-size: 100%;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #363946;
+  }
+header{
+  background: linear-gradient(0, #120c56, #000000);
+}
+#texto_1 {
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight: 900;
+    font-size: 32px;
+    color: white;
+    box-shadow:0 5px 0 #011269;
+    background-color: black;
+  }
+#texto_1:hover{
+  background-color: white;
+  box-shadow:0 5px 0 #090f49;
+  color:#000000;
+}
+#texto_2 {
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight: 900;
+    font-size: 32px;
+    color: white;
+    box-shadow:0 5px 0 #011269;
+    background-color: black;
+  } 
+#texto_2:hover{
+    box-shadow:0 5px 0 #090f49;
+    background-color: white;
+    color:#000000;
+  }
+#texto_3 {
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    font-weight: 900;
+    font-size: 32px;
+    color: white;
+    box-shadow:0 5px 0 #011269;
+    background-color: black;
+  }
+  #texto_3:hover{
+    box-shadow:0 5px 0 #090f49;
+    background-color: white;
+    color:#000000;
+  }
+  footer{
+    width: 100%;
+    margin: auto;
+    bottom: 0;
+    position: fixed;
+    color: #011269;
+    background-color: #000000;
+    }
+    .control_p:hover{
+      color:  white;
+    }

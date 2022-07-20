@@ -1,0 +1,28 @@
+body{
+    background-color: #363946;
+}
+h1:hover{
+    background:#000000;
+    color: white;
+    box-shadow:0 5px 0 #090f49;
+}
+p{
+    background-color: #363946;
+    color: black;
+}
+p:hover{
+    background:#000000;
+    color: white;
+    box-shadow:0 5px 0 #090f49;
+}
+header{
+    background: linear-gradient(0, #120c56, #000000);
+  }
+footer{
+    width: 100%;
+    margin: auto;
+    bottom: 0;
+    position: fixed;
+    color: #011269;
+    background-color: #000000;
+    }
